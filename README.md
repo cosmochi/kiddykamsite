@@ -1,2 +1,2 @@
 # kiddykamsite
-Website for PennApps Project
+Website for PennApps XXIV Project
