@@ -1,2 +1,2 @@
 # kiddykamsite
-HTML for PennApps GoDaddy Track
+Website for PennApps Project
